@@ -1,5 +1,7 @@
 Hello, world!
 
-I sudy in Netology
+I study in Netology
 
-18/01/2026
+18.01.2026
+
+👌
